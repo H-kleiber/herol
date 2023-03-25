@@ -1,0 +1,28 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+form{
+    border-radius: 15px;
+    width: 250px;
+    height:400px;
+    background-color: rgb(169, 169, 237);
+    list-style: none;
+    padding: 20px;
+}
+label,input,select{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    margin-left: 5px;
+    border: none;
+    width: 90%;
+    height: 20px;
+    border-radius: 3px;
+}
+button{
+    width: 95%;
+    height: 30px;
+    background-color: brown;
+    border-radius: 5px;
+}

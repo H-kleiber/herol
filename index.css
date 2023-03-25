@@ -1,0 +1,42 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+form{
+    width: 950px;
+    height: 550px;
+    background-color: rgb(83, 129, 195);
+    justify-content: center;
+    border-radius: 8px;
+    
+}
+h1{
+    text-align: center;
+    padding: 10px;
+    margin: auto;
+    color: red;
+}
+input, textarea{
+    border: none;
+    width: 350px;
+    height: 30px;
+    padding: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-right: 20px;
+    margin-left: 45px;
+}
+textarea{
+    width: 790px;
+    height: 200px;
+}
+
+button{
+    background-color: rgb(62, 65, 168);
+    border: none;
+    border-radius: 5px;
+    width: 150px;
+    height: 50px;
+    margin-left: 40%;
+    
+}

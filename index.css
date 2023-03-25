@@ -5,14 +5,16 @@ body{
 form{
     width: 950px;
     height: 550px;
-    background-color: blueviolet;
+    background-color: rgb(83, 129, 195);
     justify-content: center;
+    border-radius: 8px;
     
 }
 h1{
     text-align: center;
     padding: 10px;
     margin: auto;
+    color: red;
 }
 input, textarea{
     border: none;
@@ -35,7 +37,6 @@ button{
     border-radius: 5px;
     width: 150px;
     height: 50px;
-    align-items: center;
-   justify-content: center;
+    margin-left: 40%;
     
 }
